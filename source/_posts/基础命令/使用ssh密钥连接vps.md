@@ -2,7 +2,7 @@
 title: 使用ssh密钥连接vps
 date: 2024-01-19 14:27:34
 tags: VPS
-catagories: 基础命令
+categories: 基础命令
 ---
 ### 在本地机器上生成SSH密钥：
 
