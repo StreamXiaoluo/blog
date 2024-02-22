@@ -1,8 +1,8 @@
 ---
 title: python虚拟环境
 date: 2024-01-17 22:00:16
-tags: python
-categories: python编程
+tags: python环境
+categories: python
 ---
 # PyCharm 配置 Python 解释器
 
