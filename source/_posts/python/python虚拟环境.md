@@ -34,7 +34,7 @@ PyCharm 支持以下解释器类型：
 #### 3.2.1 使用 Pycharm 创建虚拟环境
 PyCharm 自带 Virtualenv 不需要单独安装。 它是虚拟环境中最常见的工具，也有许多文档，可解决许多问题，所以非常适合初学者。缺点是由于其简单性，它没有很多功能。
 ￼
-点击 “Create" 按钮，回到主界面 （Tool Windows --> Project --> Project)
+点击 “Create" 按钮，回到主界面 （Tool Windows --> Project --> Project）
 ￼
 会看到项目文件夹下自动创建虚拟环境的目录 venv, 目录结构如下：
 ￼

@@ -3,6 +3,7 @@ title: Nginx入门教程
 tags: 网站部署
 date: 2024-01-30 23:27:19
 categories: 建站
+cover: https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg
 ---
 
 # Nginx入门教程
