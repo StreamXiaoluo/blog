@@ -82,7 +82,7 @@ tags: PPT教程
 
 2. 版式设计方面
    * 层次感：不同的字体**搭配对比**
-     * 同一种字体笔画粗细搭配：Bold，light，heavy，medium
+     * 同一种字体笔画粗细搭配：**Heavy > Bold > Medium > Regular = Normal >  Lighu > ExtraLight**
      * 不同字体混合搭配：
        * 经典粗宋简 + 微软雅黑Light
        * 思源黑体Bold + 思源宋体Medium
@@ -100,7 +100,7 @@ tags: PPT教程
       2. 科技
       3. 党政
 
-2. 色调一致：区分内容，表现差异
+2. 色调（浓度）一致：区分内容，表现差异
 
    > https://www.yasuotu.com/sehuan
 
